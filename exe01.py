@@ -3,6 +3,5 @@ def saudacao(nome):
 
 
 saudacao("Bruno")
-saudacao("Piroca")
 saudacao("Nicolas")
 
